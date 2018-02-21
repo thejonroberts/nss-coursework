@@ -1,0 +1,19 @@
+.msg {
+	color: #03a9f4;
+}
+
+.blue {
+	color: #03a9f4;
+}
+
+.large {
+	font-size: 2em;
+}
+
+.border {
+	border: 5px solid lightgrey;
+}
+
+.round {
+	border-radius: 15px;
+}

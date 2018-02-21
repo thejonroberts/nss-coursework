@@ -1,0 +1,48 @@
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+  nav ul li {
+    display: inline-block;
+    margin-right: 5px;
+    border: 2px solid white;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    border-radius: 5px; }
+    nav ul li a {
+      color: white;
+      display: block;
+      padding: 6px 12px;
+      text-decoration: none; }
+
+.box {
+  width: 50px;
+  height: 50px;
+  border: 2px solid;
+  display: inline-block; }
+
+body {
+  background-color: red; }
+
+.myBtn {
+  color: #bada55;
+  border-width: 2px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px; }
+  .myBtn:hover {
+    color: pink; }
+
+.yourBtn {
+  color: orange;
+  border-width: 2px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  border-radius: 15px; }
+  .yourBtn:hover {
+    color: white; }
+
+/*# sourceMappingURL=main.css.map */

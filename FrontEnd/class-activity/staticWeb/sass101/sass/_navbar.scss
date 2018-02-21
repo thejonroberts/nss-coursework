@@ -1,0 +1,21 @@
+nav {
+  ul {
+  	// background-color: $badass;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+	li { 
+		display: inline-block; 
+		margin-right: 5px;
+		border: 2px solid white;
+		@include border-radius(5px);
+		  a {
+		  	color: white;
+		    display: block;
+		    padding: 6px 12px;
+		    text-decoration: none;
+	  }
+	}
+  }
+}

@@ -1,0 +1,22 @@
+@import 'variables';
+@import 'mixins';
+@import 'navbar';
+@import 'extends';
+
+body {
+	background-color: $perfect-red;
+}
+
+.myBtn {
+	@include my-btn($badass, 10px, pink)
+}
+
+.yourBtn {
+	@include my-btn(orange, 15px, white)
+}
+
+.box {
+	@extend %block; 
+}
+
+

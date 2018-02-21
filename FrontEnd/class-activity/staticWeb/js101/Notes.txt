@@ -1,0 +1,40 @@
+Notes:
+
+Programming is basically:
+-setting values
+-iterating over collections (array, object)
+-evaluating conditions (operators - ===, >, <, boolean)
+
+Data Types - 
+Primitive
+	-string
+	-number
+	-boolean
+	-undefined - value of var that is not yet initialized
+	-null - intentional 
+		(sometimes used in var declarations - if used later and still null, it didn't work.)
+	-symnbol (***weirdness. worry about this later.  too zen)
+Object
+
+== - truthy - compares values with type coercion
+=== - "2" != 2 - compares value and data type
+
+Object
+key: value
+var person = {
+	name: "Joe",
+	sayName: function(){return "Joe"}
+
+}
+
+person.name returns "Joe"
+person.sayName() returns "Joe" (unrelated to above, just how it is defined)
+
+function sayHello() {
+	return "Bonjour"
+}
+
+sayHello();
+
+METHOD: value of an object whose definition is a function. as sayName here.
+

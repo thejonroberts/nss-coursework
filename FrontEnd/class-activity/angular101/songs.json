@@ -1,0 +1,43 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Sharp Dressed Man",
+      "artist": "ZZ Top",
+      "album": "Eliminator"
+    },
+    {
+      "id": 2,
+      "title": "Breakfast in America",
+      "artist": "Supertramp",
+      "album": "Breakfast in America"
+    },
+    {
+      "id": 3,
+      "title": "Goodbye Mary",
+      "artist": "Supertramp",
+      "album": "Breakfast in America"
+    },
+    {
+      "id": 4,
+      "title": "Carry on My Wayward Son",
+      "artist": "Kansas",
+      "album": "Overture"
+    },
+    {
+      "artist": "Bikini Kill",
+      "album": "Reject All American",
+      "title": "Capri Pants"
+    },
+    {
+      "artist": "Guided by Voices",
+      "album": "Bee Thousand",
+      "title": "I am a Scientist"
+    },
+    {
+      "artist": "Built to Spill",
+      "album": "There's Nothing Wrong with Love",
+      "title": "Big Dipper"
+    }
+  ]
+}
